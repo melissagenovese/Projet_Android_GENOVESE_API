@@ -1,0 +1,3663 @@
+[
+  {
+    "firstName": "Alex",
+    "lastName": "Abrines",
+    "playerId": 203518,
+    "teamId": "Oklahoma City Thunder",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/abrinal01.jpg"
+  },
+  {
+    "firstName": "Quincy",
+    "lastName": "Acy",
+    "playerId": 203112,
+    "teamId": "Brooklyn Nets",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/acyqu01.jpg"
+  },
+  {
+    "firstName": "Steven",
+    "lastName": "Adams",
+    "playerId": 203500,
+    "teamId": "Oklahoma City Thunder",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/adamsst01.jpg"
+  },
+  {
+    "firstName": "Bam",
+    "lastName": "Adebayo",
+    "playerId": 1628389,
+    "teamId": "Miami Heat",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/adebaba01.jpg"
+  },
+  {
+    "firstName": "Arron",
+    "lastName": "Afflalo",
+    "playerId": 201167,
+    "teamId": "Orlando Magic",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/afflaar01.jpg"
+  },
+  {
+    "firstName": "Alexis",
+    "lastName": "Ajinca",
+    "playerId": 201582,
+    "teamId": "New Orleans Pelicans",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/ajincal01.jpg"
+  },
+  {
+    "firstName": "Cole",
+    "lastName": "Aldrich",
+    "playerId": 202332,
+    "teamId": "Minnesota Timberwolves",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/aldrico01.jpg"
+  },
+  {
+    "firstName": "LaMarcus",
+    "lastName": "Aldridge",
+    "playerId": 200746,
+    "teamId": "San Antonio Spurs",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/aldrila01.jpg"
+  },
+  {
+    "firstName": "Jarrett",
+    "lastName": "Allen",
+    "playerId": 1628386,
+    "teamId": "Brooklyn Nets",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/allenja01.jpg"
+  },
+  {
+    "firstName": "Kadeem",
+    "lastName": "Allen",
+    "playerId": 1628443,
+    "teamId": "Boston Celtics",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/allenka01.jpg"
+  },
+  {
+    "firstName": "Tony",
+    "lastName": "Allen",
+    "playerId": 2754,
+    "teamId": "Chicago Bulls",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/allento01.jpg"
+  },
+  {
+    "firstName": "Al-Farouq",
+    "lastName": "Aminu",
+    "playerId": 202329,
+    "teamId": "Portland Trail Blazers",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/aminual01.jpg"
+  },
+  {
+    "firstName": "Justin",
+    "lastName": "Anderson",
+    "playerId": 1626147,
+    "teamId": "Philadelphia 76ers",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/anderju01.jpg"
+  },
+  {
+    "firstName": "Kyle",
+    "lastName": "Anderson",
+    "playerId": 203937,
+    "teamId": "San Antonio Spurs",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/anderky01.jpg"
+  },
+  {
+    "firstName": "Ryan",
+    "lastName": "Anderson",
+    "playerId": 201583,
+    "teamId": "Houston Rockets",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/anderry01.jpg"
+  },
+  {
+    "firstName": "Ike",
+    "lastName": "Anigbogu",
+    "playerId": 1628387,
+    "teamId": "Indiana Pacers",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/anigbik01.jpg"
+  },
+  {
+    "firstName": "Giannis",
+    "lastName": "Antetokounmpo",
+    "playerId": 203507,
+    "teamId": "Milwaukee Bucks",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/antetgi01.jpg"
+  },
+  {
+    "firstName": "Carmelo",
+    "lastName": "Anthony",
+    "playerId": 2546,
+    "teamId": "Oklahoma City Thunder",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/anthoca01.jpg"
+  },
+  {
+    "firstName": "OG",
+    "lastName": "Anunoby",
+    "playerId": 1628384,
+    "teamId": "Toronto Raptors",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/anunoog01.jpg"
+  },
+  {
+    "firstName": "Ryan",
+    "lastName": "Arcidiacono",
+    "playerId": 1627853,
+    "teamId": "Chicago Bulls",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/arcidry01.jpg"
+  },
+  {
+    "firstName": "Trevor",
+    "lastName": "Ariza",
+    "playerId": 2772,
+    "teamId": "Houston Rockets",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/arizatr01.jpg"
+  },
+  {
+    "firstName": "Darrell",
+    "lastName": "Arthur",
+    "playerId": 201589,
+    "teamId": "Denver Nuggets",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/arthuda01.jpg"
+  },
+  {
+    "firstName": "Jamel",
+    "lastName": "Artis",
+    "playerId": 1628503,
+    "teamId": "Orlando Magic",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/artisja01.jpg"
+  },
+  {
+    "firstName": "Omer",
+    "lastName": "Asik",
+    "playerId": 201600,
+    "teamId": "Chicago Bulls",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/asikom01.jpg"
+  },
+  {
+    "firstName": "D.J.",
+    "lastName": "Augustin",
+    "playerId": 201571,
+    "teamId": "Orlando Magic",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/augusdj01.jpg"
+  },
+  {
+    "firstName": "Luke",
+    "lastName": "Babbitt",
+    "playerId": 202337,
+    "teamId": "Miami Heat",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/babbilu01.jpg"
+  },
+  {
+    "firstName": "Dwayne",
+    "lastName": "Bacon",
+    "playerId": 1628407,
+    "teamId": "Charlotte Hornets",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/bacondw01.jpg"
+  },
+  {
+    "firstName": "Ron",
+    "lastName": "Baker",
+    "playerId": 1627758,
+    "teamId": "New York Knicks",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/bakerro01.jpg"
+  },
+  {
+    "firstName": "Wade",
+    "lastName": "Baldwin IV",
+    "playerId": 1627735,
+    "teamId": "Portland Trail Blazers",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/baldwwa01.jpg"
+  },
+  {
+    "firstName": "Lonzo",
+    "lastName": "Ball",
+    "playerId": 1628366,
+    "teamId": "Los Angeles Lakers",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/balllo01.jpg"
+  },
+  {
+    "firstName": "J.J.",
+    "lastName": "Barea",
+    "playerId": 200826,
+    "teamId": "Dallas Mavericks",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/bareajo01.jpg"
+  },
+  {
+    "firstName": "Harrison",
+    "lastName": "Barnes",
+    "playerId": 203084,
+    "teamId": "Dallas Mavericks",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/barneha02.jpg"
+  },
+  {
+    "firstName": "Will",
+    "lastName": "Barton",
+    "playerId": 203115,
+    "teamId": "Denver Nuggets",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/bartowi01.jpg"
+  },
+  {
+    "firstName": "Nicolas",
+    "lastName": "Batum",
+    "playerId": 201587,
+    "teamId": "Charlotte Hornets",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/batumni01.jpg"
+  },
+  {
+    "firstName": "Jerryd",
+    "lastName": "Bayless",
+    "playerId": 201573,
+    "teamId": "Philadelphia 76ers",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/bayleje01.jpg"
+  },
+  {
+    "firstName": "Aron",
+    "lastName": "Baynes",
+    "playerId": 203382,
+    "teamId": "Boston Celtics",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/baynear01.jpg"
+  },
+  {
+    "firstName": "Kent",
+    "lastName": "Bazemore",
+    "playerId": 203145,
+    "teamId": "Atlanta Hawks",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/bazemke01.jpg"
+  },
+  {
+    "firstName": "Bradley",
+    "lastName": "Beal",
+    "playerId": 203078,
+    "teamId": "Washington Wizards",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/bealbr01.jpg"
+  },
+  {
+    "firstName": "Malik",
+    "lastName": "Beasley",
+    "playerId": 1627736,
+    "teamId": "Denver Nuggets",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/beaslma01.jpg"
+  },
+  {
+    "firstName": "Michael",
+    "lastName": "Beasley",
+    "playerId": 201563,
+    "teamId": "New York Knicks",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/beaslmi01.jpg"
+  },
+  {
+    "firstName": "Marco",
+    "lastName": "Belinelli",
+    "playerId": 201158,
+    "teamId": "Atlanta Hawks",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/belinma01.jpg"
+  },
+  {
+    "firstName": "Jordan",
+    "lastName": "Bell",
+    "playerId": 1628395,
+    "teamId": "Golden State Warriors",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/belljo01.jpg"
+  },
+  {
+    "firstName": "DeAndre'",
+    "lastName": "Bembry",
+    "playerId": 1627761,
+    "teamId": "Atlanta Hawks",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/bembrde01.jpg"
+  },
+  {
+    "firstName": "Dragan",
+    "lastName": "Bender",
+    "playerId": 1627733,
+    "teamId": "Phoenix Suns",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/bendedr01.jpg"
+  },
+  {
+    "firstName": "Davis",
+    "lastName": "Bertans",
+    "playerId": 202722,
+    "teamId": "San Antonio Spurs",
+    "img":"https://www.basketball-reference.com/players/b/bertada01.html"
+  },
+  {
+    "firstName": "Patrick",
+    "lastName": "Beverley",
+    "playerId": 201976,
+    "teamId": "Los Angeles Clippers",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/beverpa01.jpg"
+  },
+  {
+    "firstName": "Khem",
+    "lastName": "Birch",
+    "playerId": 203920,
+    "teamId": "Orlando Magic",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/birchkh01.jpg"
+  },
+  {
+    "firstName": "Jabari",
+    "lastName": "Bird",
+    "playerId": 1628444,
+    "teamId": "Boston Celtics",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/birdja01.jpg"
+  },
+  {
+    "firstName": "Bismack",
+    "lastName": "Biyombo",
+    "playerId": 202687,
+    "teamId": "Orlando Magic",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/biyombi01.jpg"
+  },
+  {
+    "firstName": "Nemanja",
+    "lastName": "Bjelica",
+    "playerId": 202357,
+    "teamId": "Minnesota Timberwolves",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/bjeline01.jpg"
+  },
+  {
+    "firstName": "Tarik",
+    "lastName": "Black",
+    "playerId": 204028,
+    "teamId": "Houston Rockets",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/blackta01.jpg"
+  },
+  {
+    "firstName": "Antonio",
+    "lastName": "Blakeney",
+    "playerId": 1628469,
+    "teamId": "Chicago Bulls",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/blakean01.jpg"
+  },
+  {
+    "firstName": "Eric",
+    "lastName": "Bledsoe",
+    "playerId": 202339,
+    "teamId": "Milwaukee Bucks",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/bledser01.jpg"
+  },
+  {
+    "firstName": "Vander",
+    "lastName": "Blue",
+    "playerId": 203505,
+    "teamId": 0,
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/blueva01.jpg"
+  },
+  {
+    "firstName": "Bogdan",
+    "lastName": "Bogdanovic",
+    "playerId": 203992,
+    "teamId": "Sacramento Kings",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/bogdabo01.jpg"
+  },
+  {
+    "firstName": "Bojan",
+    "lastName": "Bogdanovic",
+    "playerId": 202711,
+    "teamId": "Indiana Pacers",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/bogdabo02.jpg"
+  },
+  {
+    "firstName": "Andrew",
+    "lastName": "Bogut",
+    "playerId": 101106,
+    "teamId": 0,
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/bogutan01.jpg"
+  },
+  {
+    "firstName": "Joel",
+    "lastName": "Bolomboy",
+    "playerId": 1627762,
+    "teamId": 0,
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/bolomjo01.jpg"
+  },
+  {
+    "firstName": "Devin",
+    "lastName": "Booker",
+    "playerId": 1626164,
+    "teamId": "Phoenix Suns",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/bookede01.jpg"
+  },
+  {
+    "firstName": "Trevor",
+    "lastName": "Booker",
+    "playerId": 202344,
+    "teamId": "Philadelphia 76ers",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/booketr01.jpg"
+  },
+  {
+    "firstName": "Chris",
+    "lastName": "Boucher",
+    "playerId": 1628449,
+    "teamId": "Golden State Warriors",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/bouchch01.jpg"
+  },
+  {
+    "firstName": "Avery",
+    "lastName": "Bradley",
+    "playerId": 202340,
+    "teamId": "Los Angeles Clippers",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/bradlav01.jpg"
+  },
+  {
+    "firstName": "Tony",
+    "lastName": "Bradley",
+    "playerId": 1628396,
+    "teamId": "Utah Jazz",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/bradlto01.jpg"
+  },
+  {
+    "firstName": "Corey",
+    "lastName": "Brewer",
+    "playerId": 201147,
+    "teamId": "Los Angeles Lakers",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/breweco01.jpg"
+  },
+  {
+    "firstName": "Malcolm",
+    "lastName": "Brogdon",
+    "playerId": 1627763,
+    "teamId": "Milwaukee Bucks",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/brogdma01.jpg"
+  },
+  {
+    "firstName": "Aaron",
+    "lastName": "Brooks",
+    "playerId": 201166,
+    "teamId": "Minnesota Timberwolves",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/brookaa01.jpg"
+  },
+  {
+    "firstName": "Dillon",
+    "lastName": "Brooks",
+    "playerId": 1628415,
+    "teamId": "Memphis Grizzlies",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/brookdi01.jpg"
+  },
+  {
+    "firstName": "Anthony",
+    "lastName": "Brown",
+    "playerId": 1626148,
+    "teamId": "Minnesota Timberwolves",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/brownan02.jpg"
+  },
+  {
+    "firstName": "Bobby",
+    "lastName": "Brown",
+    "playerId": 201628,
+    "teamId": 0,
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/brownbo02.jpg"
+  },
+  {
+    "firstName": "Jaylen",
+    "lastName": "Brown",
+    "playerId": 1627759,
+    "teamId": "Boston Celtics",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/brownja02.jpg"
+  },
+  {
+    "firstName": "Lorenzo",
+    "lastName": "Brown",
+    "playerId": 203485,
+    "teamId": "Toronto Raptors",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/brownlo01.jpg"
+  },
+  {
+    "firstName": "Markel",
+    "lastName": "Brown",
+    "playerId": 203900,
+    "teamId": "Houston Rockets",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/brownma02.jpg"
+  },
+  {
+    "firstName": "Sterling",
+    "lastName": "Brown",
+    "playerId": 1628425,
+    "teamId": "Milwaukee Bucks",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/brownst02.jpg"
+  },
+  {
+    "firstName": "Nicolas",
+    "lastName": "Brussino",
+    "playerId": 1627852,
+    "teamId": 0,
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/brussni01.jpg"
+  },
+  {
+    "firstName": "Thomas",
+    "lastName": "Bryant",
+    "playerId": 1628418,
+    "teamId": "Los Angeles Lakers",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/bryanth01.jpg"
+  },
+  {
+    "firstName": "Reggie",
+    "lastName": "Bullock",
+    "playerId": 203493,
+    "teamId": "Detroit Pistons",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/bullore01.jpg"
+  },
+  {
+    "firstName": "Trey",
+    "lastName": "Burke",
+    "playerId": 203504,
+    "teamId": "New York Knicks",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/burketr01.jpg"
+  },
+  {
+    "firstName": "Alec",
+    "lastName": "Burks",
+    "playerId": 202692,
+    "teamId": "Utah Jazz",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/burksal01.jpg"
+  },
+  {
+    "firstName": "Jimmy",
+    "lastName": "Butler",
+    "playerId": 202710,
+    "teamId": "Minnesota Timberwolves",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/butleji01.jpg"
+  },
+  {
+    "firstName": "Dwight",
+    "lastName": "Buycks",
+    "playerId": 202779,
+    "teamId": "Detroit Pistons",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/buyckdw01.jpg"
+  },
+  {
+    "firstName": "Bruno",
+    "lastName": "Caboclo",
+    "playerId": 203998,
+    "teamId": "Sacramento Kings",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/cabocbr01.jpg"
+  },
+  {
+    "firstName": "Jose",
+    "lastName": "Calderon",
+    "playerId": 101181,
+    "teamId": "Cleveland Cavaliers",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/caldejo01.jpg"
+  },
+  {
+    "firstName": "Kentavious",
+    "lastName": "Caldwell-Pope",
+    "playerId": 203484,
+    "teamId": "Los Angeles Lakers",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/caldwke01.jpg"
+  },
+  {
+    "firstName": "Isaiah",
+    "lastName": "Canaan",
+    "playerId": 203477,
+    "teamId": 0,
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/canaais01.jpg"
+  },
+  {
+    "firstName": "Clint",
+    "lastName": "Capela",
+    "playerId": 203991,
+    "teamId": "Houston Rockets",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/capelca01.jpg"
+  },
+  {
+    "firstName": "DeMarre",
+    "lastName": "Carroll",
+    "playerId": 201960,
+    "teamId": "Brooklyn Nets",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/carrode01.jpg"
+  },
+  {
+    "firstName": "Vince",
+    "lastName": "Carter",
+    "playerId": 1713,
+    "teamId": "Sacramento Kings",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/cartevi01.jpg"
+  },
+  {
+    "firstName": "Michael",
+    "lastName": "Carter-Williams",
+    "playerId": 203487,
+    "teamId": "Charlotte Hornets",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/cartemi01.jpg"
+  },
+  {
+    "firstName": "Alex",
+    "lastName": "Caruso",
+    "playerId": 1627936,
+    "teamId": "Los Angeles Lakers",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/carusal01.jpg"
+  },
+  {
+    "firstName": "Omri",
+    "lastName": "Casspi",
+    "playerId": 201956,
+    "teamId": "Golden State Warriors",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/casspom01.jpg"
+  },
+  {
+    "firstName": "Willie",
+    "lastName": "Cauley-Stein",
+    "playerId": 1626161,
+    "teamId": "Sacramento Kings",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/caulewi01.jpg"
+  },
+  {
+    "firstName": "Tyler",
+    "lastName": "Cavanaugh",
+    "playerId": 1628463,
+    "teamId": "Atlanta Hawks",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/cavanty01.jpg"
+  },
+  {
+    "firstName": "Mario",
+    "lastName": "Chalmers",
+    "playerId": 201596,
+    "teamId": "Memphis Grizzlies",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/chalmma01.jpg"
+  },
+  {
+    "firstName": "Tyson",
+    "lastName": "Chandler",
+    "playerId": 2199,
+    "teamId": "Phoenix Suns",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/chandty01.jpg"
+  },
+  {
+    "firstName": "Wilson",
+    "lastName": "Chandler",
+    "playerId": 201163,
+    "teamId": "Denver Nuggets",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/chandty01.jpg"
+  },
+  {
+    "firstName": "Marquese",
+    "lastName": "Chriss",
+    "playerId": 1627737,
+    "teamId": "Phoenix Suns",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/chrisma01.jpg"
+  },
+  {
+    "firstName": "Ian",
+    "lastName": "Clark",
+    "playerId": 203546,
+    "teamId": "New Orleans Pelicans",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/clarkia01.jpg"
+  },
+  {
+    "firstName": "Jordan",
+    "lastName": "Clarkson",
+    "playerId": 203903,
+    "teamId": "Cleveland Cavaliers",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/clarkjo01.jpg"
+  },
+  {
+    "firstName": "Gian",
+    "lastName": "Clavell",
+    "playerId": 1628492,
+    "teamId": 0,
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/clavegi01.jpg"
+  },
+  {
+    "firstName": "Antonius",
+    "lastName": "Cleveland",
+    "playerId": 1628499,
+    "teamId": 0,
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/clevean01.jpg"
+  },
+  {
+    "firstName": "John",
+    "lastName": "Collins",
+    "playerId": 1628381,
+    "teamId": "Atlanta Hawks",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/clevean01.jpg"
+  },
+  {
+    "firstName": "Zach",
+    "lastName": "Collins",
+    "playerId": 1628380,
+    "teamId": "Portland Trail Blazers",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/colliza01.jpg"
+  },
+  {
+    "firstName": "Kyle",
+    "lastName": "Collinsworth",
+    "playerId": 1627858,
+    "teamId": "Dallas Mavericks",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/colliky01.jpg"
+  },
+  {
+    "firstName": "Darren",
+    "lastName": "Collison",
+    "playerId": 201954,
+    "teamId": "Indiana Pacers",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/collida01.jpg"
+  },
+  {
+    "firstName": "Nick",
+    "lastName": "Collison",
+    "playerId": 2555,
+    "teamId": "Oklahoma City Thunder",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/collini01.jpg"
+  },
+  {
+    "firstName": "Mike",
+    "lastName": "Conley",
+    "playerId": 201144,
+    "teamId": "Memphis Grizzlies",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/conlemi01.jpg"
+  },
+  {
+    "firstName": "Pat",
+    "lastName": "Connaughton",
+    "playerId": 1626192,
+    "teamId": "Portland Trail Blazers",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/connapa01.jpg"
+  },
+  {
+    "firstName": "Quinn",
+    "lastName": "Cook",
+    "playerId": 1626188,
+    "teamId": "Golden State Warriors",
+    "img":""
+  },
+  {
+    "firstName": "Charles",
+    "lastName": "Cooke",
+    "playerId": 1628429,
+    "teamId": "New Orleans Pelicans",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/cookech01.jpg"
+  },
+  {
+    "firstName": "Jack",
+    "lastName": "Cooley",
+    "playerId": 204022,
+    "teamId": "Sacramento Kings",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/cooleja01.jpg"
+  },
+  {
+    "firstName": "Matt",
+    "lastName": "Costello",
+    "playerId": 1627856,
+    "teamId": "San Antonio Spurs",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/costema01.jpg"
+  },
+  {
+    "firstName": "DeMarcus",
+    "lastName": "Cousins",
+    "playerId": 202326,
+    "teamId": "New Orleans Pelicans",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/couside01.jpg"
+  },
+  {
+    "firstName": "Robert",
+    "lastName": "Covington",
+    "playerId": 203496,
+    "teamId": "Philadelphia 76ers",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/covinro01.jpg"
+  },
+  {
+    "firstName": "Allen",
+    "lastName": "Crabbe",
+    "playerId": 203459,
+    "teamId": "Brooklyn Nets",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/crabbal01.jpg"
+  },
+  {
+    "firstName": "Torrey",
+    "lastName": "Craig",
+    "playerId": 1628470,
+    "teamId": "Denver Nuggets",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/craigto01.jpg"
+  },
+  {
+    "firstName": "Jamal",
+    "lastName": "Crawford",
+    "playerId": 2037,
+    "teamId": "Minnesota Timberwolves",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/crawfja01.jpg"
+  },
+  {
+    "firstName": "Jordan",
+    "lastName": "Crawford",
+    "playerId": 202348,
+    "teamId": 0,
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/crawfja01.jpg"
+  },
+  {
+    "firstName": "Jae",
+    "lastName": "Crowder",
+    "playerId": 203109,
+    "teamId": "Utah Jazz",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/crowdja01.jpg"
+  },
+  {
+    "firstName": "Dante",
+    "lastName": "Cunningham",
+    "playerId": 201967,
+    "teamId": "Brooklyn Nets",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/cunnida01.jpg"
+  },
+  {
+    "firstName": "Seth",
+    "lastName": "Curry",
+    "playerId": 203552,
+    "teamId": "Dallas Mavericks",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/curryse01.jpghttps://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/curryse01.jpg"
+  },
+  {
+    "firstName": "Stephen",
+    "lastName": "Curry",
+    "playerId": 201939,
+    "teamId": "Golden State Warriors",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/curryst01.jpg"
+  },
+  {
+    "firstName": "Troy",
+    "lastName": "Daniels",
+    "playerId": 203584,
+    "teamId": "Phoenix Suns",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/danietr01.jpg"
+  },
+  {
+    "firstName": "Anthony",
+    "lastName": "Davis",
+    "playerId": 203076,
+    "teamId": "New Orleans Pelicans",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/davisan02.jpg"
+  },
+  {
+    "firstName": "Deyonta",
+    "lastName": "Davis",
+    "playerId": 1627738,
+    "teamId": "Memphis Grizzlies",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/davisde01.jpg"
+  },
+  {
+    "firstName": "Ed",
+    "lastName": "Davis",
+    "playerId": 202334,
+    "teamId": "Portland Trail Blazers",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/davised01.jpg"
+  },
+  {
+    "firstName": "DeMar",
+    "lastName": "DeRozan",
+    "playerId": 201942,
+    "teamId": "Toronto Raptors",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/derozde01.jpg"
+  },
+  {
+    "firstName": "Dewayne",
+    "lastName": "Dedmon",
+    "playerId": 203473,
+    "teamId": "Atlanta Hawks",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/dedmode01.jpg"
+  },
+  {
+    "firstName": "Sam",
+    "lastName": "Dekker",
+    "playerId": 1626155,
+    "teamId": "Los Angeles Clippers",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/dekkesa01.jpg"
+  },
+  {
+    "firstName": "Malcolm",
+    "lastName": "Delaney",
+    "playerId": 1627098,
+    "teamId": "Atlanta Hawks",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/delanma01.jpg"
+  },
+  {
+    "firstName": "Matthew",
+    "lastName": "Dellavedova",
+    "playerId": 203521,
+    "teamId": "Milwaukee Bucks",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/dellama01.jpg"
+  },
+  {
+    "firstName": "Luol",
+    "lastName": "Deng",
+    "playerId": 2736,
+    "teamId": "Los Angeles Lakers",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/denglu01.jpg"
+  },
+  {
+    "firstName": "Cheick",
+    "lastName": "Diallo",
+    "playerId": 1627767,
+    "teamId": "New Orleans Pelicans",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/diallch01.jpg"
+  },
+  {
+    "firstName": "Gorgui",
+    "lastName": "Dieng",
+    "playerId": 203476,
+    "teamId": "Minnesota Timberwolves",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/dienggo01.jpg"
+  },
+  {
+    "firstName": "Spencer",
+    "lastName": "Dinwiddie",
+    "playerId": 203915,
+    "teamId": "Brooklyn Nets",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/dinwisp01.jpg"
+  },
+  {
+    "firstName": "Tyler",
+    "lastName": "Dorsey",
+    "playerId": 1628416,
+    "teamId": "Atlanta Hawks",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/dorsety01.jpg"
+  },
+  {
+    "firstName": "Damyean",
+    "lastName": "Dotson",
+    "playerId": 1628422,
+    "teamId": "New York Knicks",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/dotsoda01.jpg"
+  },
+  {
+    "firstName": "Milton",
+    "lastName": "Doyle",
+    "playerId": 1628495,
+    "teamId": "Brooklyn Nets",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/doylemi01.jpg"
+  },
+  {
+    "firstName": "PJ",
+    "lastName": "Dozier",
+    "playerId": 1628408,
+    "teamId": "Oklahoma City Thunder",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/doziepj01.jpg"
+  },
+  {
+    "firstName": "Goran",
+    "lastName": "Dragic",
+    "playerId": 201609,
+    "teamId": "Miami Heat",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/dragigo01.jpg"
+  },
+  {
+    "firstName": "Larry",
+    "lastName": "Drew II",
+    "playerId": 203580,
+    "teamId": "Philadelphia 76ers",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/drewla02.jpg"
+  },
+  {
+    "firstName": "Andre",
+    "lastName": "Drummond",
+    "playerId": 203083,
+    "teamId": "Detroit Pistons",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/drumman01.jpg"
+  },
+  {
+    "firstName": "Jared",
+    "lastName": "Dudley",
+    "playerId": 201162,
+    "teamId": "Phoenix Suns",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/dudleja01.jpg"
+  },
+  {
+    "firstName": "Kris",
+    "lastName": "Dunn",
+    "playerId": 1627739,
+    "teamId": "Chicago Bulls",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/dunnkr01.jpg"
+  },
+  {
+    "firstName": "Kevin",
+    "lastName": "Durant",
+    "playerId": 201142,
+    "teamId": "Golden State Warriors",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/duranke01.jpg"
+  },
+  {
+    "firstName": "Jarell",
+    "lastName": "Eddie",
+    "playerId": 204067,
+    "teamId": 0,
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/eddieja01.jpg"
+  },
+  {
+    "firstName": "Henry",
+    "lastName": "Ellenson",
+    "playerId": 1627740,
+    "teamId": "Detroit Pistons",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/ellenhe01.jpg"
+  },
+  {
+    "firstName": "Wayne",
+    "lastName": "Ellington",
+    "playerId": 201961,
+    "teamId": "Miami Heat",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/ellinwa01.jpg"
+  },
+  {
+    "firstName": "Joel",
+    "lastName": "Embiid",
+    "playerId": 203954,
+    "teamId": "Philadelphia 76ers",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/embiijo01.jpg"
+  },
+  {
+    "firstName": "Tyler",
+    "lastName": "Ennis",
+    "playerId": 203898,
+    "teamId": "Los Angeles Lakers",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/ennisty01.jpg"
+  },
+  {
+    "firstName": "James",
+    "lastName": "Ennis III",
+    "playerId": 203516,
+    "teamId": "Detroit Pistons",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/ennisja01.jpg"
+  },
+  {
+    "firstName": "Jawun",
+    "lastName": "Evans",
+    "playerId": 1628393,
+    "teamId": "Los Angeles Clippers",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/evansja01.jpg"
+  },
+  {
+    "firstName": "Tyreke",
+    "lastName": "Evans",
+    "playerId": 201936,
+    "teamId": "Memphis Grizzlies",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/evansty01.jpg"
+  },
+  {
+    "firstName": "Dante",
+    "lastName": "Exum",
+    "playerId": 203957,
+    "teamId": "Utah Jazz",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/exumda01.jpg"
+  },
+  {
+    "firstName": "Kenneth",
+    "lastName": "Faried",
+    "playerId": 202702,
+    "teamId": "Denver Nuggets",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/farieke01.jpg"
+  },
+  {
+    "firstName": "Derrick",
+    "lastName": "Favors",
+    "playerId": 202324,
+    "teamId": "Utah Jazz",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/favorde01.jpg"
+  },
+  {
+    "firstName": "Kay",
+    "lastName": "Felder",
+    "playerId": 1627770,
+    "teamId": "Detroit Pistons",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/feldeka01.jpg"
+  },
+  {
+    "firstName": "Cristiano",
+    "lastName": "Felicio",
+    "playerId": 1626245,
+    "teamId": "Chicago Bulls",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/feliccr01.jpg"
+  },
+  {
+    "firstName": "Raymond",
+    "lastName": "Felton",
+    "playerId": 101109,
+    "teamId": "Oklahoma City Thunder",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/feltora01.jpg"
+  },
+  {
+    "firstName": "Terrance",
+    "lastName": "Ferguson",
+    "playerId": 1628390,
+    "teamId": "Oklahoma City Thunder",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/fergute01.jpg"
+  },
+  {
+    "firstName": "Yogi",
+    "lastName": "Ferrell",
+    "playerId": 1627812,
+    "teamId": "Dallas Mavericks",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/ferreyo01.jpg"
+  },
+  {
+    "firstName": "Dorian",
+    "lastName": "Finney-Smith",
+    "playerId": 1627827,
+    "teamId": "Dallas Mavericks",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/finnedo01.jpg"
+  },
+  {
+    "firstName": "Bryn",
+    "lastName": "Forbes",
+    "playerId": 1627854,
+    "teamId": "San Antonio Spurs",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/forbebr01.jpg"
+  },
+  {
+    "firstName": "Evan",
+    "lastName": "Fournier",
+    "playerId": 203095,
+    "teamId": "Orlando Magic",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/fournev01.jpg"
+  },
+  {
+    "firstName": "De'Aaron",
+    "lastName": "Fox",
+    "playerId": 1628368,
+    "teamId": "Sacramento Kings",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/foxde01.jpg"
+  },
+  {
+    "firstName": "Tim",
+    "lastName": "Frazier",
+    "playerId": 204025,
+    "teamId": "Washington Wizards",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/fraziti01.jpg"
+  },
+  {
+    "firstName": "Channing",
+    "lastName": "Frye",
+    "playerId": 101112,
+    "teamId": "Los Angeles Lakers",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/fryech01.jpg"
+  },
+  {
+    "firstName": "Markelle",
+    "lastName": "Fultz",
+    "playerId": 1628365,
+    "teamId": "Philadelphia 76ers",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/fultzma01.jpg"
+  },
+  {
+    "firstName": "Danilo",
+    "lastName": "Gallinari",
+    "playerId": 201568,
+    "teamId": "Los Angeles Clippers",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/gallida01.jpg"
+  },
+  {
+    "firstName": "Langston",
+    "lastName": "Galloway",
+    "playerId": 204038,
+    "teamId": "Detroit Pistons",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/gallola01.jpg"
+  },
+  {
+    "firstName": "Marc",
+    "lastName": "Gasol",
+    "playerId": 201188,
+    "teamId": "Memphis Grizzlies",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/gasolma01.jpg"
+  },
+  {
+    "firstName": "Pau",
+    "lastName": "Gasol",
+    "playerId": 2200,
+    "teamId": "San Antonio Spurs",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/gasolpa01.jpg"
+  },
+  {
+    "firstName": "Rudy",
+    "lastName": "Gay",
+    "playerId": 200752,
+    "teamId": "San Antonio Spurs",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/gayru01.jpg"
+  },
+  {
+    "firstName": "Paul",
+    "lastName": "George",
+    "playerId": 202331,
+    "teamId": "Oklahoma City Thunder",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/georgpa01.jpg"
+  },
+  {
+    "firstName": "Marcus",
+    "lastName": "Georges-Hunt",
+    "playerId": 1627875,
+    "teamId": "Minnesota Timberwolves",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/georgma01.jpg"
+  },
+  {
+    "firstName": "Taj",
+    "lastName": "Gibson",
+    "playerId": 201959,
+    "teamId": "Minnesota Timberwolves",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/gibsota01.jpg"
+  },
+  {
+    "firstName": "Harry",
+    "lastName": "Giles",
+    "playerId": 1628385,
+    "teamId": "Sacramento Kings",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/gilesha01.jpg"
+  },
+  {
+    "firstName": "Manu",
+    "lastName": "Ginobili",
+    "playerId": 1938,
+    "teamId": "San Antonio Spurs",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/ginobma01.jpg"
+  },
+  {
+    "firstName": "Rudy",
+    "lastName": "Gobert",
+    "playerId": 203497,
+    "teamId": "Utah Jazz",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/goberru01.jpg"
+  },
+  {
+    "firstName": "Aaron",
+    "lastName": "Gordon",
+    "playerId": 203932,
+    "teamId": "Orlando Magic",
+    "img":""
+  },
+  {
+    "firstName": "Eric",
+    "lastName": "Gordon",
+    "playerId": 201569,
+    "teamId": "Houston Rockets",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/gordoaa01.jpg"
+  },
+  {
+    "firstName": "Marcin",
+    "lastName": "Gortat",
+    "playerId": 101162,
+    "teamId": "Washington Wizards",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/gortama01.jpg"
+  },
+  {
+    "firstName": "Treveon",
+    "lastName": "Graham",
+    "playerId": 1626203,
+    "teamId": "Charlotte Hornets",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/grahatr01.jpg"
+  },
+  {
+    "firstName": "Jerami",
+    "lastName": "Grant",
+    "playerId": 203924,
+    "teamId": "Oklahoma City Thunder",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/grantje01.jpg"
+  },
+  {
+    "firstName": "Jerian",
+    "lastName": "Grant",
+    "playerId": 1626170,
+    "teamId": "Chicago Bulls",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/grantje02.jpg"
+  },
+  {
+    "firstName": "Josh",
+    "lastName": "Gray",
+    "playerId": 1627982,
+    "teamId": "Phoenix Suns",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/grayjo01.jpg"
+  },
+  {
+    "firstName": "Danny",
+    "lastName": "Green",
+    "playerId": 201980,
+    "teamId": "San Antonio Spurs",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/greenda02.jpg"
+  },
+  {
+    "firstName": "Draymond",
+    "lastName": "Green",
+    "playerId": 203110,
+    "teamId": "Golden State Warriors",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/greendr01.jpg"
+  },
+  {
+    "firstName": "Gerald",
+    "lastName": "Green",
+    "playerId": 101123,
+    "teamId": "Houston Rockets",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/greenge01.jpg"
+  },
+  {
+    "firstName": "JaMychal",
+    "lastName": "Green",
+    "playerId": 203210,
+    "teamId": "Memphis Grizzlies",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/greenja01.jpg"
+  },
+  {
+    "firstName": "Jeff",
+    "lastName": "Green",
+    "playerId": 201145,
+    "teamId": "Cleveland Cavaliers",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/greenje02.jpg"
+  },
+  {
+    "firstName": "Blake",
+    "lastName": "Griffin",
+    "playerId": 201933,
+    "teamId": "Detroit Pistons",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/griffbl01.jpg"
+  },
+  {
+    "firstName": "Daniel",
+    "lastName": "Hamilton",
+    "playerId": 1627772,
+    "teamId": "Oklahoma City Thunder",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/hamilda02.jpg"
+  },
+  {
+    "firstName": "Tim",
+    "lastName": "Hardaway Jr.",
+    "playerId": 203501,
+    "teamId": "New York Knicks",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/hardati02.jpg"
+  },
+  {
+    "firstName": "James",
+    "lastName": "Harden",
+    "playerId": 201935,
+    "teamId": "Houston Rockets",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/hardeja01.jpg"
+  },
+  {
+    "firstName": "Maurice",
+    "lastName": "Harkless",
+    "playerId": 203090,
+    "teamId": "Portland Trail Blazers",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/harklma01.jpg"
+  },
+  {
+    "firstName": "Montrezl",
+    "lastName": "Harrell",
+    "playerId": 1626149,
+    "teamId": "Los Angeles Clippers",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/harremo01.jpg"
+  },
+  {
+    "firstName": "Devin",
+    "lastName": "Harris",
+    "playerId": 2734,
+    "teamId": "Denver Nuggets",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/harride01.jpg"
+  },
+  {
+    "firstName": "Gary",
+    "lastName": "Harris",
+    "playerId": 203914,
+    "teamId": "Denver Nuggets",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/harriga01.jpg"
+  },
+  {
+    "firstName": "Joe",
+    "lastName": "Harris",
+    "playerId": 203925,
+    "teamId": "Brooklyn Nets",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/harrijo01.jpg"
+  },
+  {
+    "firstName": "Tobias",
+    "lastName": "Harris",
+    "playerId": 202699,
+    "teamId": "Los Angeles Clippers",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/harrito02.jpg"
+  },
+  {
+    "firstName": "Andrew",
+    "lastName": "Harrison",
+    "playerId": 1626150,
+    "teamId": "Memphis Grizzlies",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/harrian01.jpg"
+  },
+  {
+    "firstName": "Josh",
+    "lastName": "Hart",
+    "playerId": 1628404,
+    "teamId": "Los Angeles Lakers",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/hartjo01.jpg"
+  },
+  {
+    "firstName": "Udonis",
+    "lastName": "Haslem",
+    "playerId": 2617,
+    "teamId": "Miami Heat",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/hasleud01.jpg"
+  },
+  {
+    "firstName": "Nigel",
+    "lastName": "Hayes",
+    "playerId": 1628502,
+    "teamId": 0,
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/hayesni01.jpg"
+  },
+  {
+    "firstName": "Gordon",
+    "lastName": "Hayward",
+    "playerId": 202330,
+    "teamId": "Boston Celtics",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/haywago01.jpg"
+  },
+  {
+    "firstName": "Reggie",
+    "lastName": "Hearn",
+    "playerId": 203687,
+    "teamId": "Detroit Pistons",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/hearnre01.jpg"
+  },
+  {
+    "firstName": "Myke",
+    "lastName": "Henry",
+    "playerId": 1627988,
+    "teamId": "Memphis Grizzlies",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/henrymy01.jpg"
+  },
+  {
+    "firstName": "John",
+    "lastName": "Henson",
+    "playerId": 203089,
+    "teamId": "Milwaukee Bucks",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/hensojo01.jpg"
+  },
+  {
+    "firstName": "Juan",
+    "lastName": "Hernangomez",
+    "playerId": 1627823,
+    "teamId": "Denver Nuggets",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/hernaju01.jpg"
+  },
+  {
+    "firstName": "Willy",
+    "lastName": "Hernangomez",
+    "playerId": 1626195,
+    "teamId": "Charlotte Hornets",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/hernawi01.jpg"
+  },
+  {
+    "firstName": "Mario",
+    "lastName": "Hezonja",
+    "playerId": 1626209,
+    "teamId": "Orlando Magic",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/hezonma01.jpg"
+  },
+  {
+    "firstName": "Isaiah",
+    "lastName": "Hicks",
+    "playerId": 1628439,
+    "teamId": "New York Knicks",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/hicksis01.jpg"
+  },
+  {
+    "firstName": "Buddy",
+    "lastName": "Hield",
+    "playerId": 1627741,
+    "teamId": "Sacramento Kings",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/hieldbu01.jpg"
+  },
+  {
+    "firstName": "Nene",
+    "lastName": "",
+    "playerId": 2403,
+    "teamId": "Houston Rockets",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/hilarne01.jpg"
+  },
+  {
+    "firstName": "George",
+    "lastName": "Hill",
+    "playerId": 201588,
+    "teamId": "Cleveland Cavaliers",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/hillge01.jpg"
+  },
+  {
+    "firstName": "Solomon",
+    "lastName": "Hill",
+    "playerId": 203524,
+    "teamId": "New Orleans Pelicans",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/hillso01.jpg"
+  },
+  {
+    "firstName": "Darrun",
+    "lastName": "Hilliard",
+    "playerId": 1626199,
+    "teamId": "San Antonio Spurs",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/hillida01.jpg"
+  },
+  {
+    "firstName": "Jrue",
+    "lastName": "Holiday",
+    "playerId": 201950,
+    "teamId": "New Orleans Pelicans",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/holidjr01.jpg"
+  },
+  {
+    "firstName": "Justin",
+    "lastName": "Holiday",
+    "playerId": 203200,
+    "teamId": "Chicago Bulls",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/holidju01.jpg"
+  },
+  {
+    "firstName": "John",
+    "lastName": "Holland",
+    "playerId": 204066,
+    "teamId": "Cleveland Cavaliers",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/hollajo02.jpg"
+  },
+  {
+    "firstName": "Rondae",
+    "lastName": "Hollis-Jefferson",
+    "playerId": 1626178,
+    "teamId": "Brooklyn Nets",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/holliro01.jpg"
+  },
+  {
+    "firstName": "Richaun",
+    "lastName": "Holmes",
+    "playerId": 1626158,
+    "teamId": "Philadelphia 76ers",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/holmeri01.jpg"
+  },
+  {
+    "firstName": "Rodney",
+    "lastName": "Hood",
+    "playerId": 203918,
+    "teamId": "Cleveland Cavaliers",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/hoodro01.jpg"
+  },
+  {
+    "firstName": "Al",
+    "lastName": "Horford",
+    "playerId": 201143,
+    "teamId": "Boston Celtics",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/horfoal01.jpg"
+  },
+  {
+    "firstName": "Danuel",
+    "lastName": "House",
+    "playerId": 1627863,
+    "teamId": "Phoenix Suns",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/houseda01.jpg"
+  },
+  {
+    "firstName": "Dwight",
+    "lastName": "Howard",
+    "playerId": 2730,
+    "teamId": "Charlotte Hornets",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/howardw01.jpg"
+  },
+  {
+    "firstName": "Josh",
+    "lastName": "Huestis",
+    "playerId": 203962,
+    "teamId": "Oklahoma City Thunder",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/huestjo01.jpg"
+  },
+  {
+    "firstName": "RJ",
+    "lastName": "Hunter",
+    "playerId": 1626154,
+    "teamId": "Houston Rockets",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/hunterj01.jpg"
+  },
+  {
+    "firstName": "Vincent",
+    "lastName": "Hunter",
+    "playerId": 1626205,
+    "teamId": 0,
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/huntevi01.jpg"
+  },
+  {
+    "firstName": "Serge",
+    "lastName": "Ibaka",
+    "playerId": 201586,
+    "teamId": "Toronto Raptors",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/ibakase01.jpg"
+  },
+  {
+    "firstName": "Andre",
+    "lastName": "Iguodala",
+    "playerId": 2738,
+    "teamId": "Golden State Warriors",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/iguodan01.jpg"
+  },
+  {
+    "firstName": "Ersan",
+    "lastName": "Ilyasova",
+    "playerId": 101141,
+    "teamId": "Atlanta Hawks",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/ilyaser01.jpg"
+  },
+  {
+    "firstName": "Joe",
+    "lastName": "Ingles",
+    "playerId": 204060,
+    "teamId": "Utah Jazz",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/inglejo01.jpg"
+  },
+  {
+    "firstName": "Brandon",
+    "lastName": "Ingram",
+    "playerId": 1627742,
+    "teamId": "Los Angeles Lakers",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/ingrabr01.jpg"
+  },
+  {
+    "firstName": "Kyrie",
+    "lastName": "Irving",
+    "playerId": 202681,
+    "teamId": "Boston Celtics",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/irvinky01.jpg"
+  },
+  {
+    "firstName": "Jonathan",
+    "lastName": "Isaac",
+    "playerId": 1628371,
+    "teamId": "Orlando Magic",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/isaacjo01.jpg"
+  },
+  {
+    "firstName": "Wes",
+    "lastName": "Iwundu",
+    "playerId": 1628411,
+    "teamId": "Orlando Magic",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/iwundwe01.jpg"
+  },
+  {
+    "firstName": "Jarrett",
+    "lastName": "Jack",
+    "playerId": 101127,
+    "teamId": "New York Knicks",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/jackja01.jpg"
+  },
+  {
+    "firstName": "Demetrius",
+    "lastName": "Jackson",
+    "playerId": 1627743,
+    "teamId": "Philadelphia 76ers",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/jacksde01.jpg"
+  },
+  {
+    "firstName": "Frank",
+    "lastName": "Jackson",
+    "playerId": 1628402,
+    "teamId": "New Orleans Pelicans",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/jacksfr01.jpg"
+  },
+  {
+    "firstName": "Josh",
+    "lastName": "Jackson",
+    "playerId": 1628367,
+    "teamId": "Phoenix Suns",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/jacksjo02.jpg"
+  },
+  {
+    "firstName": "Justin",
+    "lastName": "Jackson",
+    "playerId": 1628382,
+    "teamId": "Sacramento Kings",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/jacksju01.jpg"
+  },
+  {
+    "firstName": "Reggie",
+    "lastName": "Jackson",
+    "playerId": 202704,
+    "teamId": "Detroit Pistons",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/jacksre01.jpg"
+  },
+  {
+    "firstName": "LeBron",
+    "lastName": "James",
+    "playerId": 2544,
+    "teamId": "Cleveland Cavaliers",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/jamesle01.jpg"
+  },
+  {
+    "firstName": "Mike",
+    "lastName": "James",
+    "playerId": 1628455,
+    "teamId": "New Orleans Pelicans",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/jamesmi02.jpg"
+  },
+  {
+    "firstName": "Al",
+    "lastName": "Jefferson",
+    "playerId": 2744,
+    "teamId": "Indiana Pacers",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/jeffeal01.jpg"
+  },
+  {
+    "firstName": "Amile",
+    "lastName": "Jefferson",
+    "playerId": 1628518,
+    "teamId": "Minnesota Timberwolves",
+    "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvGjqVYJgzMCZjrx4ghoHxRuuNU9C2EpGgUIxHbB_Rpx6mi1EJXw"
+  },
+  {
+    "firstName": "Richard",
+    "lastName": "Jefferson",
+    "playerId": 2210,
+    "teamId": "Denver Nuggets",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/jefferi01.jpg"
+  },
+  {
+    "firstName": "Jonas",
+    "lastName": "Jerebko",
+    "playerId": 201973,
+    "teamId": "Utah Jazz",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/jerebjo01.jpg"
+  },
+  {
+    "firstName": "Amir",
+    "lastName": "Johnson",
+    "playerId": 101161,
+    "teamId": "Philadelphia 76ers",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/johnsam01.jpg"
+  },
+  {
+    "firstName": "Brice",
+    "lastName": "Johnson",
+    "playerId": 1627744,
+    "teamId": "Memphis Grizzlies",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/johnsbr02.jpg"
+  },
+  {
+    "firstName": "Dakari",
+    "lastName": "Johnson",
+    "playerId": 1626177,
+    "teamId": "Oklahoma City Thunder",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/johnsda04.jpg"
+  },
+  {
+    "firstName": "James",
+    "lastName": "Johnson",
+    "playerId": 201949,
+    "teamId": "Miami Heat",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/johnsja01.jpg"
+  },
+  {
+    "firstName": "Joe",
+    "lastName": "Johnson",
+    "playerId": 2207,
+    "teamId": "Sacramento Kings",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/johnsjo02.jpg"
+  },
+  {
+    "firstName": "Stanley",
+    "lastName": "Johnson",
+    "playerId": 1626169,
+    "teamId": "Detroit Pistons",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/johnsst04.jpg"
+  },
+  {
+    "firstName": "Tyler",
+    "lastName": "Johnson",
+    "playerId": 204020,
+    "teamId": "Miami Heat",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/johnsty01.jpg"
+  },
+  {
+    "firstName": "Wesley",
+    "lastName": "Johnson",
+    "playerId": 202325,
+    "teamId": "Los Angeles Clippers",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/johnswe01.jpg"
+  },
+  {
+    "firstName": "Nikola",
+    "lastName": "Jokic",
+    "playerId": 203999,
+    "teamId": "Denver Nuggets",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/jokicni01.jpg"
+  },
+  {
+    "firstName": "Damian",
+    "lastName": "Jones",
+    "playerId": 1627745,
+    "teamId": "Golden State Warriors",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/jonesda03.jpg"
+  },
+  {
+    "firstName": "Jalen",
+    "lastName": "Jones",
+    "playerId": 1627883,
+    "teamId": "Dallas Mavericks",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/jonesja04.jpg"
+  },
+  {
+    "firstName": "Tyus",
+    "lastName": "Jones",
+    "playerId": 1626145,
+    "teamId": "Minnesota Timberwolves",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/jonesty01.jpg"
+  },
+  {
+    "firstName": "Derrick",
+    "lastName": "Jones Jr.",
+    "playerId": 1627884,
+    "teamId": "Miami Heat",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/jonesde02.jpg"
+  },
+  {
+    "firstName": "DeAndre",
+    "lastName": "Jordan",
+    "playerId": 201599,
+    "teamId": "Los Angeles Clippers",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/jordade01.jpg"
+  },
+  {
+    "firstName": "Cory",
+    "lastName": "Joseph",
+    "playerId": 202709,
+    "teamId": "Indiana Pacers",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/josepco01.jpg"
+  },
+  {
+    "firstName": "Frank",
+    "lastName": "Kaminsky",
+    "playerId": 1626163,
+    "teamId": "Charlotte Hornets",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/kaminfr01.jpg"
+  },
+  {
+    "firstName": "Enes",
+    "lastName": "Kanter",
+    "playerId": 202683,
+    "teamId": "New York Knicks",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/kanteen01.jpg"
+  },
+  {
+    "firstName": "Luke",
+    "lastName": "Kennard",
+    "playerId": 1628379,
+    "teamId": "Detroit Pistons",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/kennalu01.jpg"
+  },
+  {
+    "firstName": "Michael",
+    "lastName": "Kidd-Gilchrist",
+    "playerId": 203077,
+    "teamId": "Charlotte Hornets",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/kiddgmi01.jpg"
+  },
+  {
+    "firstName": "Sean",
+    "lastName": "Kilpatrick",
+    "playerId": 203930,
+    "teamId": "Milwaukee Bucks",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/kilpase01.jpg"
+  },
+  {
+    "firstName": "Maxi",
+    "lastName": "Kleber",
+    "playerId": 1628467,
+    "teamId": "Dallas Mavericks",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/klebima01.jpg"
+  },
+  {
+    "firstName": "Brandon",
+    "lastName": "Knight",
+    "playerId": 202688,
+    "teamId": "Phoenix Suns",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/knighbr03.jpg"
+  },
+  {
+    "firstName": "Furkan",
+    "lastName": "Korkmaz",
+    "playerId": 1627788,
+    "teamId": "Philadelphia 76ers",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/korkmfu01.jpg"
+  },
+  {
+    "firstName": "Luke",
+    "lastName": "Kornet",
+    "playerId": 1628436,
+    "teamId": "New York Knicks",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/kornelu01.jpg"
+  },
+  {
+    "firstName": "Kyle",
+    "lastName": "Korver",
+    "playerId": 2594,
+    "teamId": "Cleveland Cavaliers",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/korveky01.jpg"
+  },
+  {
+    "firstName": "Kosta",
+    "lastName": "Koufos",
+    "playerId": 201585,
+    "teamId": "Sacramento Kings",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/koufoko01.jpg"
+  },
+  {
+    "firstName": "Kyle",
+    "lastName": "Kuzma",
+    "playerId": 1628398,
+    "teamId": "Los Angeles Lakers",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/kuzmaky01.jpg"
+  },
+  {
+    "firstName": "Mindaugas",
+    "lastName": "Kuzminskas",
+    "playerId": 1627851,
+    "teamId": 0,
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/kuzmimi01.jpg"
+  },
+  {
+    "firstName": "Zach",
+    "lastName": "LaVine",
+    "playerId": 203897,
+    "teamId": "Chicago Bulls",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/lavinza01.jpg"
+  },
+  {
+    "firstName": "Skal",
+    "lastName": "Labissiere",
+    "playerId": 1627746,
+    "teamId": "Sacramento Kings",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/labissk01.jpg"
+  },
+  {
+    "firstName": "Jeremy",
+    "lastName": "Lamb",
+    "playerId": 203087,
+    "teamId": "Charlotte Hornets",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/lambje01.jpg"
+  },
+  {
+    "firstName": "Shane",
+    "lastName": "Larkin",
+    "playerId": 203499,
+    "teamId": "Boston Celtics",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/larkish01.jpg"
+  },
+  {
+    "firstName": "Joffrey",
+    "lastName": "Lauvergne",
+    "playerId": 203530,
+    "teamId": "San Antonio Spurs",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/lauvejo01.jpg"
+  },
+  {
+    "firstName": "Jake",
+    "lastName": "Layman",
+    "playerId": 1627774,
+    "teamId": "Portland Trail Blazers",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/laymaja01.jpg"
+  },
+  {
+    "firstName": "Caris",
+    "lastName": "LeVert",
+    "playerId": 1627747,
+    "teamId": "Brooklyn Nets",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/leverca01.jpg"
+  },
+  {
+    "firstName": "TJ",
+    "lastName": "Leaf",
+    "playerId": 1628388,
+    "teamId": "Indiana Pacers",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/leaftj01.jpg"
+  },
+  {
+    "firstName": "Courtney",
+    "lastName": "Lee",
+    "playerId": 201584,
+    "teamId": "New York Knicks",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/leeco01.jpg"
+  },
+  {
+    "firstName": "Alex",
+    "lastName": "Len",
+    "playerId": 203458,
+    "teamId": "Phoenix Suns",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/lenal01.jpg"
+  },
+  {
+    "firstName": "Kawhi",
+    "lastName": "Leonard",
+    "playerId": 202695,
+    "teamId": "San Antonio Spurs",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/leonaka01.jpg"
+  },
+  {
+    "firstName": "Meyers",
+    "lastName": "Leonard",
+    "playerId": 203086,
+    "teamId": "Portland Trail Blazers",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/leoname01.jpg"
+  },
+  {
+    "firstName": "Jon",
+    "lastName": "Leuer",
+    "playerId": 202720,
+    "teamId": "Detroit Pistons",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/leuerjo01.jpg"
+  },
+  {
+    "firstName": "DeAndre",
+    "lastName": "Liggins",
+    "playerId": 202732,
+    "teamId": "New Orleans Pelicans",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/liggide01.jpg"
+  },
+  {
+    "firstName": "Damian",
+    "lastName": "Lillard",
+    "playerId": 203081,
+    "teamId": "Portland Trail Blazers",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/lillada01.jpg"
+  },
+  {
+    "firstName": "Jeremy",
+    "lastName": "Lin",
+    "playerId": 202391,
+    "teamId": "Brooklyn Nets",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/linje01.jpg"
+  },
+  {
+    "firstName": "Shaun",
+    "lastName": "Livingston",
+    "playerId": 2733,
+    "teamId": "Golden State Warriors",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/livinsh01.jpg"
+  },
+  {
+    "firstName": "Kevon",
+    "lastName": "Looney",
+    "playerId": 1626172,
+    "teamId": "Golden State Warriors",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/looneke01.jpg"
+  },
+  {
+    "firstName": "Brook",
+    "lastName": "Lopez",
+    "playerId": 201572,
+    "teamId": "Los Angeles Lakers",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/lopezbr01.jpg"
+  },
+  {
+    "firstName": "Robin",
+    "lastName": "Lopez",
+    "playerId": 201577,
+    "teamId": "Chicago Bulls",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/lopezro01.jpg"
+  },
+  {
+    "firstName": "Kevin",
+    "lastName": "Love",
+    "playerId": 201567,
+    "teamId": "Cleveland Cavaliers",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/loveke01.jpg"
+  },
+  {
+    "firstName": "Kyle",
+    "lastName": "Lowry",
+    "playerId": 200768,
+    "teamId": "Toronto Raptors",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/lowryky01.jpg"
+  },
+  {
+    "firstName": "Timothe",
+    "lastName": "Luwawu-Cabarrot",
+    "playerId": 1627789,
+    "teamId": "Philadelphia 76ers",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/luwawti01.jpg"
+  },
+  {
+    "firstName": "Tyler",
+    "lastName": "Lydon",
+    "playerId": 1628399,
+    "teamId": "Denver Nuggets",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/lydonty01.jpg"
+  },
+  {
+    "firstName": "Trey",
+    "lastName": "Lyles",
+    "playerId": 1626168,
+    "teamId": "Denver Nuggets",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/lylestr01.jpg"
+  },
+  {
+    "firstName": "Shelvin",
+    "lastName": "Mack",
+    "playerId": 202714,
+    "teamId": "Orlando Magic",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/macksh01.jpg"
+  },
+  {
+    "firstName": "Josh",
+    "lastName": "Magette",
+    "playerId": 203705,
+    "teamId": "Atlanta Hawks",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/magetjo01.jpg"
+  },
+  {
+    "firstName": "Ian",
+    "lastName": "Mahinmi",
+    "playerId": 101133,
+    "teamId": "Washington Wizards",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/mahinia01.jpg"
+  },
+  {
+    "firstName": "Thon",
+    "lastName": "Maker",
+    "playerId": 1627748,
+    "teamId": "Milwaukee Bucks",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/makerth01.jpg"
+  },
+  {
+    "firstName": "Boban",
+    "lastName": "Marjanovic",
+    "playerId": 1626246,
+    "teamId": "Los Angeles Clippers",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/marjabo01.jpg"
+  },
+  {
+    "firstName": "Lauri",
+    "lastName": "Markkanen",
+    "playerId": 1628374,
+    "teamId": "Chicago Bulls",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/markkla01.jpg"
+  },
+  {
+    "firstName": "Jarell",
+    "lastName": "Martin",
+    "playerId": 1626185,
+    "teamId": "Memphis Grizzlies",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/martija01.jpg"
+  },
+  {
+    "firstName": "Frank",
+    "lastName": "Mason",
+    "playerId": 1628412,
+    "teamId": "Sacramento Kings",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/masonfr01.jpg"
+  },
+  {
+    "firstName": "Mangok",
+    "lastName": "Mathiang",
+    "playerId": 1628493,
+    "teamId": "Charlotte Hornets",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/mathima01.jpg"
+  },
+  {
+    "firstName": "Wesley",
+    "lastName": "Matthews",
+    "playerId": 202083,
+    "teamId": "Dallas Mavericks",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/matthwe02.jpg"
+  },
+  {
+    "firstName": "Luc",
+    "lastName": "Mbah a Moute",
+    "playerId": 201601,
+    "teamId": "Houston Rockets",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/mbahalu01.jpg"
+  },
+  {
+    "firstName": "James Michael",
+    "lastName": "McAdoo",
+    "playerId": 203949,
+    "teamId": 0,
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/mcadoja01.jpg"
+  },
+  {
+    "firstName": "Patrick",
+    "lastName": "McCaw",
+    "playerId": 1627775,
+    "teamId": "Golden State Warriors",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/mccawpa01.jpg"
+  },
+  {
+    "firstName": "CJ",
+    "lastName": "McCollum",
+    "playerId": 203468,
+    "teamId": "Portland Trail Blazers",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/mccolcj01.jpg"
+  },
+  {
+    "firstName": "T.J.",
+    "lastName": "McConnell",
+    "playerId": 204456,
+    "teamId": "Philadelphia 76ers",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/mccontj01.jpg"
+  },
+  {
+    "firstName": "Erik",
+    "lastName": "McCree",
+    "playerId": 1628571,
+    "teamId": "Utah Jazz",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/mccreer01.jpg"
+  },
+  {
+    "firstName": "Chris",
+    "lastName": "McCullough",
+    "playerId": 1626191,
+    "teamId": "Washington Wizards",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/mcculch01.jpg"
+  },
+  {
+    "firstName": "Doug",
+    "lastName": "McDermott",
+    "playerId": 203926,
+    "teamId": "Dallas Mavericks",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/mcderdo01.jpg"
+  },
+  {
+    "firstName": "JaVale",
+    "lastName": "McGee",
+    "playerId": 201580,
+    "teamId": "Golden State Warriors",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/mcgeeja01.jpg"
+  },
+  {
+    "firstName": "Rodney",
+    "lastName": "McGruder",
+    "playerId": 203585,
+    "teamId": "Miami Heat",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/mcgruro01.jpg"
+  },
+  {
+    "firstName": "Alfonzo",
+    "lastName": "McKinnie",
+    "playerId": 1628035,
+    "teamId": "Toronto Raptors",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/mckinal01.jpg"
+  },
+  {
+    "firstName": "Ben",
+    "lastName": "McLemore",
+    "playerId": 203463,
+    "teamId": "Memphis Grizzlies",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/mclembe01.jpg"
+  },
+  {
+    "firstName": "Josh",
+    "lastName": "McRoberts",
+    "playerId": 201177,
+    "teamId": "Dallas Mavericks",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/mcrobjo01.jpg"
+  },
+  {
+    "firstName": "Jodie",
+    "lastName": "Meeks",
+    "playerId": 201975,
+    "teamId": "Washington Wizards",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/meeksjo01.jpg"
+  },
+  {
+    "firstName": "Salah",
+    "lastName": "Mejri",
+    "playerId": 1626257,
+    "teamId": "Dallas Mavericks",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/mejrisa01.jpg"
+  },
+  {
+    "firstName": "Jordan",
+    "lastName": "Mickey",
+    "playerId": 1626175,
+    "teamId": "Miami Heat",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/mickejo01.jpg"
+  },
+  {
+    "firstName": "Khris",
+    "lastName": "Middleton",
+    "playerId": 203114,
+    "teamId": "Milwaukee Bucks",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/middlkh01.jpg"
+  },
+  {
+    "firstName": "CJ",
+    "lastName": "Miles",
+    "playerId": 101139,
+    "teamId": "Toronto Raptors",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/milescj01.jpg"
+  },
+  {
+    "firstName": "Darius",
+    "lastName": "Miller",
+    "playerId": 203121,
+    "teamId": "New Orleans Pelicans",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/milleda01.jpg"
+  },
+  {
+    "firstName": "Malcolm",
+    "lastName": "Miller",
+    "playerId": 1626259,
+    "teamId": "Toronto Raptors",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/millema01.jpg"
+  },
+  {
+    "firstName": "Patty",
+    "lastName": "Mills",
+    "playerId": 201988,
+    "teamId": "San Antonio Spurs",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/millspa02.jpg"
+  },
+  {
+    "firstName": "Paul",
+    "lastName": "Millsap",
+    "playerId": 200794,
+    "teamId": "Denver Nuggets",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/millspa01.jpg"
+  },
+  {
+    "firstName": "Nikola",
+    "lastName": "Mirotic",
+    "playerId": 202703,
+    "teamId": "New Orleans Pelicans",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/mirotni01.jpg"
+  },
+  {
+    "firstName": "Donovan",
+    "lastName": "Mitchell",
+    "playerId": 1628378,
+    "teamId": "Utah Jazz",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/mitchdo01.jpg"
+  },
+  {
+    "firstName": "Naz",
+    "lastName": "Mitrou-Long",
+    "playerId": 1628513,
+    "teamId": 0,
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/mitrona01.jpg"
+  },
+  {
+    "firstName": "Malik",
+    "lastName": "Monk",
+    "playerId": 1628370,
+    "teamId": "Charlotte Hornets",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/monkma01.jpg"
+  },
+  {
+    "firstName": "Greg",
+    "lastName": "Monroe",
+    "playerId": 202328,
+    "teamId": "Boston Celtics",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/monrogr01.jpg"
+  },
+  {
+    "firstName": "Luis",
+    "lastName": "Montero",
+    "playerId": 1626242,
+    "teamId": 0,
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/montelu01.jpg"
+  },
+  {
+    "firstName": "Ben",
+    "lastName": "Moore",
+    "playerId": 1628500,
+    "teamId": "Indiana Pacers",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/moorebe01.jpg"
+  },
+  {
+    "firstName": "E'Twaun",
+    "lastName": "Moore",
+    "playerId": 202734,
+    "teamId": "New Orleans Pelicans",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/mooreet01.jpg"
+  },
+  {
+    "firstName": "Eric",
+    "lastName": "Moreland",
+    "playerId": 203961,
+    "teamId": "Detroit Pistons",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/moreler01.jpg"
+  },
+  {
+    "firstName": "Marcus",
+    "lastName": "Morris",
+    "playerId": 202694,
+    "teamId": "Boston Celtics",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/morrima03.jpg"
+  },
+  {
+    "firstName": "Markieff",
+    "lastName": "Morris",
+    "playerId": 202693,
+    "teamId": "Washington Wizards",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/morrima02.jpg"
+  },
+  {
+    "firstName": "Monte",
+    "lastName": "Morris",
+    "playerId": 1628420,
+    "teamId": "Denver Nuggets",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/morrimo01.jpg"
+  },
+  {
+    "firstName": "Johnathan",
+    "lastName": "Motley",
+    "playerId": 1628405,
+    "teamId": "Dallas Mavericks",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/motlejo01.jpg"
+  },
+  {
+    "firstName": "Timofey",
+    "lastName": "Mozgov",
+    "playerId": 202389,
+    "teamId": "Brooklyn Nets",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/mozgoti01.jpg"
+  },
+  {
+    "firstName": "Emmanuel",
+    "lastName": "Mudiay",
+    "playerId": 1626144,
+    "teamId": "New York Knicks",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/mudiaem01.jpg"
+  },
+  {
+    "firstName": "Shabazz",
+    "lastName": "Muhammad",
+    "playerId": 203498,
+    "teamId": "Minnesota Timberwolves",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/muhamsh01.jpg"
+  },
+  {
+    "firstName": "Xavier",
+    "lastName": "Munford",
+    "playerId": 204098,
+    "teamId": "Milwaukee Bucks",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/munfoxa02.jpg"
+  },
+  {
+    "firstName": "Dejounte",
+    "lastName": "Murray",
+    "playerId": 1627749,
+    "teamId": "San Antonio Spurs",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/murrade01.jpg"
+  },
+  {
+    "firstName": "Jamal",
+    "lastName": "Murray",
+    "playerId": 1627750,
+    "teamId": "Denver Nuggets",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/murraja01.jpg"
+  },
+  {
+    "firstName": "Mike",
+    "lastName": "Muscala",
+    "playerId": 203488,
+    "teamId": "Atlanta Hawks",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/muscami01.jpg"
+  },
+  {
+    "firstName": "Abdel",
+    "lastName": "Nader",
+    "playerId": 1627846,
+    "teamId": "Boston Celtics",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/naderab01.jpg"
+  },
+  {
+    "firstName": "Larry",
+    "lastName": "Nance Jr.",
+    "playerId": 1626204,
+    "teamId": "Cleveland Cavaliers",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/nancela02.jpg"
+  },
+  {
+    "firstName": "Shabazz",
+    "lastName": "Napier",
+    "playerId": 203894,
+    "teamId": "Portland Trail Blazers",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/napiesh01.jpg"
+  },
+  {
+    "firstName": "Jameer",
+    "lastName": "Nelson",
+    "playerId": 2749,
+    "teamId": "Detroit Pistons",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/nelsoja01.jpg"
+  },
+  {
+    "firstName": "Raul",
+    "lastName": "Neto",
+    "playerId": 203526,
+    "teamId": "Utah Jazz",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/netora01.jpg"
+  },
+  {
+    "firstName": "Georges",
+    "lastName": "Niang",
+    "playerId": 1627777,
+    "teamId": "Utah Jazz",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/niangge01.jpg"
+  },
+  {
+    "firstName": "Joakim",
+    "lastName": "Noah",
+    "playerId": 201149,
+    "teamId": "New York Knicks",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/noahjo01.jpg"
+  },
+  {
+    "firstName": "Nerlens",
+    "lastName": "Noel",
+    "playerId": 203457,
+    "teamId": "Dallas Mavericks",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/noelne01.jpg"
+  },
+  {
+    "firstName": "Lucas",
+    "lastName": "Nogueira",
+    "playerId": 203512,
+    "teamId": "Toronto Raptors",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/noguelu01.jpg"
+  },
+  {
+    "firstName": "Dirk",
+    "lastName": "Nowitzki",
+    "playerId": 1717,
+    "teamId": "Dallas Mavericks",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/nowitdi01.jpg"
+  },
+  {
+    "firstName": "Frank",
+    "lastName": "Ntilikina",
+    "playerId": 1628373,
+    "teamId": "New York Knicks",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/ntilila01.jpg"
+  },
+  {
+    "firstName": "Jusuf",
+    "lastName": "Nurkic",
+    "playerId": 203994,
+    "teamId": "Portland Trail Blazers",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/nurkiju01.jpg"
+  },
+  {
+    "firstName": "David",
+    "lastName": "Nwaba",
+    "playerId": 1628021,
+    "teamId": "Chicago Bulls",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/nwabada01.jpg"
+  },
+  {
+    "firstName": "Johnny",
+    "lastName": "O'Bryant III",
+    "playerId": 203948,
+    "teamId": 0,
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/obryajo01.jpg"
+  },
+  {
+    "firstName": "Royce",
+    "lastName": "O'Neale",
+    "playerId": 1626220,
+    "teamId": "Utah Jazz",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/onealro01.jpg"
+  },
+  {
+    "firstName": "Kyle",
+    "lastName": "O'Quinn",
+    "playerId": 203124,
+    "teamId": "New York Knicks",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/oquinky01.jpg"
+  },
+  {
+    "firstName": "Semi",
+    "lastName": "Ojeleye",
+    "playerId": 1628400,
+    "teamId": "Boston Celtics",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/ojelese01.jpg"
+  },
+  {
+    "firstName": "Emeka",
+    "lastName": "Okafor",
+    "playerId": 2731,
+    "teamId": "New Orleans Pelicans",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/okafoem01.jpg"
+  },
+  {
+    "firstName": "Jahlil",
+    "lastName": "Okafor",
+    "playerId": 1626143,
+    "teamId": "Brooklyn Nets",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/okafoja01.jpg"
+  },
+  {
+    "firstName": "Victor",
+    "lastName": "Oladipo",
+    "playerId": 203506,
+    "teamId": "Indiana Pacers",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/oladivi01.jpg"
+  },
+  {
+    "firstName": "Kelly",
+    "lastName": "Olynyk",
+    "playerId": 203482,
+    "teamId": "Miami Heat",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/olynyke01.jpg"
+  },
+  {
+    "firstName": "Chinanu",
+    "lastName": "Onuaku",
+    "playerId": 1627778,
+    "teamId": "Houston Rockets",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/onuakch01.jpg"
+  },
+  {
+    "firstName": "Cedi",
+    "lastName": "Osman",
+    "playerId": 1626224,
+    "teamId": "Cleveland Cavaliers",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/osmande01.jpg"
+  },
+  {
+    "firstName": "Kelly",
+    "lastName": "Oubre Jr.",
+    "playerId": 1626162,
+    "teamId": "Washington Wizards",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/oubreke01.jpg"
+  },
+  {
+    "firstName": "Zaza",
+    "lastName": "Pachulia",
+    "playerId": 2585,
+    "teamId": "Golden State Warriors",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/pachuza01.jpg"
+  },
+  {
+    "firstName": "Marcus",
+    "lastName": "Paige",
+    "playerId": 1627779,
+    "teamId": "Charlotte Hornets",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/paigema01.jpg"
+  },
+  {
+    "firstName": "Georgios",
+    "lastName": "Papagiannis",
+    "playerId": 1627834,
+    "teamId": "Sacramento Kings",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/papagge01.jpg"
+  },
+  {
+    "firstName": "Jabari",
+    "lastName": "Parker",
+    "playerId": 203953,
+    "teamId": "Milwaukee Bucks",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/parkeja01.jpg"
+  },
+  {
+    "firstName": "Tony",
+    "lastName": "Parker",
+    "playerId": 2225,
+    "teamId": "San Antonio Spurs",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/parketo01.jpg"
+  },
+  {
+    "firstName": "Chandler",
+    "lastName": "Parsons",
+    "playerId": 202718,
+    "teamId": "Memphis Grizzlies",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/parsoch01.jpg"
+  },
+  {
+    "firstName": "Patrick",
+    "lastName": "Patterson",
+    "playerId": 202335,
+    "teamId": "Oklahoma City Thunder",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/pattepa01.jpg"
+  },
+  {
+    "firstName": "Justin",
+    "lastName": "Patton",
+    "playerId": 1628383,
+    "teamId": "Minnesota Timberwolves",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/pattoju01.jpg"
+  },
+  {
+    "firstName": "Brandon",
+    "lastName": "Paul",
+    "playerId": 203464,
+    "teamId": "San Antonio Spurs",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/paulbr01.jpg"
+  },
+  {
+    "firstName": "Chris",
+    "lastName": "Paul",
+    "playerId": 101108,
+    "teamId": "Houston Rockets",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/paulch01.jpg"
+  },
+  {
+    "firstName": "Adreian",
+    "lastName": "Payne",
+    "playerId": 203940,
+    "teamId": 0,
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/paynead01.jpg"
+  },
+  {
+    "firstName": "Cameron",
+    "lastName": "Payne",
+    "playerId": 1626166,
+    "teamId": "Chicago Bulls",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/payneca01.jpg"
+  },
+  {
+    "firstName": "Elfrid",
+    "lastName": "Payton",
+    "playerId": 203901,
+    "teamId": "Phoenix Suns",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/paytoel01.jpg"
+  },
+  {
+    "firstName": "Gary",
+    "lastName": "Payton II",
+    "playerId": 1627780,
+    "teamId": "Los Angeles Lakers",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/paytoga02.jpg"
+  },
+  {
+    "firstName": "London",
+    "lastName": "Perrantes",
+    "playerId": 1628506,
+    "teamId": "Cleveland Cavaliers",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/perralo01.jpg"
+  },
+  {
+    "firstName": "Alec",
+    "lastName": "Peters",
+    "playerId": 1628409,
+    "teamId": "Phoenix Suns",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/peteral01.jpg"
+  },
+  {
+    "firstName": "Marshall",
+    "lastName": "Plumlee",
+    "playerId": 1627850,
+    "teamId": "Milwaukee Bucks",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/plumlma02.jpg"
+  },
+  {
+    "firstName": "Mason",
+    "lastName": "Plumlee",
+    "playerId": 203486,
+    "teamId": "Denver Nuggets",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/plumlma01.jpg"
+  },
+  {
+    "firstName": "Miles",
+    "lastName": "Plumlee",
+    "playerId": 203101,
+    "teamId": "Atlanta Hawks",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/plumlmi01.jpg"
+  },
+  {
+    "firstName": "Jakob",
+    "lastName": "Poeltl",
+    "playerId": 1627751,
+    "teamId": "Toronto Raptors",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/poeltja01.jpg"
+  },
+  {
+    "firstName": "Quincy",
+    "lastName": "Pondexter",
+    "playerId": 202347,
+    "teamId": 0,
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/pondequ01.jpg"
+  },
+  {
+    "firstName": "Otto",
+    "lastName": "Porter Jr.",
+    "playerId": 203490,
+    "teamId": "Washington Wizards",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/porteot01.jpg"
+  },
+  {
+    "firstName": "Bobby",
+    "lastName": "Portis",
+    "playerId": 1626171,
+    "teamId": "Chicago Bulls",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/portibo01.jpg"
+  },
+  {
+    "firstName": "Kristaps",
+    "lastName": "Porzingis",
+    "playerId": 204001,
+    "teamId": "New York Knicks",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/porzikr01.jpg"
+  },
+  {
+    "firstName": "Dwight",
+    "lastName": "Powell",
+    "playerId": 203939,
+    "teamId": "Dallas Mavericks",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/poweldw01.jpg"
+  },
+  {
+    "firstName": "Norman",
+    "lastName": "Powell",
+    "playerId": 1626181,
+    "teamId": "Toronto Raptors",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/powelno01.jpg"
+  },
+  {
+    "firstName": "Alex",
+    "lastName": "Poythress",
+    "playerId": 1627816,
+    "teamId": "Indiana Pacers",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/poythal01.jpg"
+  },
+  {
+    "firstName": "Taurean",
+    "lastName": "Prince",
+    "playerId": 1627752,
+    "teamId": "Atlanta Hawks",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/princta02.jpg"
+  },
+  {
+    "firstName": "Jacob",
+    "lastName": "Pullen",
+    "playerId": 1626643,
+    "teamId": 0,
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/pulleja01.jpg"
+  },
+  {
+    "firstName": "Zhou Qi",
+    "lastName": "",
+    "playerId": 1627753,
+    "teamId": "Houston Rockets",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/qizh01.jpg"
+  },
+  {
+    "firstName": "Ivan",
+    "lastName": "Rabb",
+    "playerId": 1628397,
+    "teamId": "Memphis Grizzlies",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/rabbiv01.jpg"
+  },
+  {
+    "firstName": "Julius",
+    "lastName": "Randle",
+    "playerId": 203944,
+    "teamId": "Los Angeles Lakers",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/randlju01.jpg"
+  },
+  {
+    "firstName": "Zach",
+    "lastName": "Randolph",
+    "playerId": 2216,
+    "teamId": "Sacramento Kings",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/randoza01.jpg"
+  },
+  {
+    "firstName": "JJ",
+    "lastName": "Redick",
+    "playerId": 200755,
+    "teamId": "Philadelphia 76ers",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/redicjj01.jpg"
+  },
+  {
+    "firstName": "Davon",
+    "lastName": "Reed",
+    "playerId": 1628432,
+    "teamId": "Phoenix Suns",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/reedda01.jpg"
+  },
+  {
+    "firstName": "Willie",
+    "lastName": "Reed",
+    "playerId": 203186,
+    "teamId": 0,
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/reedwi02.jpg"
+  },
+  {
+    "firstName": "Josh",
+    "lastName": "Richardson",
+    "playerId": 1626196,
+    "teamId": "Miami Heat",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/richajo01.jpg"
+  },
+  {
+    "firstName": "Malachi",
+    "lastName": "Richardson",
+    "playerId": 1627781,
+    "teamId": "Toronto Raptors",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/richama01.jpg"
+  },
+  {
+    "firstName": "Austin",
+    "lastName": "Rivers",
+    "playerId": 203085,
+    "teamId": "Los Angeles Clippers",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/riverau01.jpg"
+  },
+  {
+    "firstName": "Andre",
+    "lastName": "Roberson",
+    "playerId": 203460,
+    "teamId": "Oklahoma City Thunder",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/roberan03.jpg"
+  },
+  {
+    "firstName": "Devin",
+    "lastName": "Robinson",
+    "playerId": 1628421,
+    "teamId": "Washington Wizards",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/robinde01.jpg"
+  },
+  {
+    "firstName": "Glenn",
+    "lastName": "Robinson III",
+    "playerId": 203922,
+    "teamId": "Indiana Pacers",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/robingl02.jpg"
+  },
+  {
+    "firstName": "Rajon",
+    "lastName": "Rondo",
+    "playerId": 200765,
+    "teamId": "New Orleans Pelicans",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/rondora01.jpg"
+  },
+  {
+    "firstName": "Derrick",
+    "lastName": "Rose",
+    "playerId": 201565,
+    "teamId": "Utah Jazz",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/rosede01.jpg"
+  },
+  {
+    "firstName": "Terrence",
+    "lastName": "Ross",
+    "playerId": 203082,
+    "teamId": "Orlando Magic",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/rosste01.jpg"
+  },
+  {
+    "firstName": "Terry",
+    "lastName": "Rozier",
+    "playerId": 1626179,
+    "teamId": "Boston Celtics",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/roziete01.jpg"
+  },
+  {
+    "firstName": "Ricky",
+    "lastName": "Rubio",
+    "playerId": 201937,
+    "teamId": "Utah Jazz",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/rubiori01.jpg"
+  },
+  {
+    "firstName": "D'Angelo",
+    "lastName": "Russell",
+    "playerId": 1626156,
+    "teamId": "Brooklyn Nets",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/russeda01.jpg"
+  },
+  {
+    "firstName": "Domantas",
+    "lastName": "Sabonis",
+    "playerId": 1627734,
+    "teamId": "Indiana Pacers",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/sabondo01.jpg"
+  },
+  {
+    "firstName": "JaKarr",
+    "lastName": "Sampson",
+    "playerId": 203960,
+    "teamId": "Sacramento Kings",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/sampsja02.jpg"
+  },
+  {
+    "firstName": "Dario",
+    "lastName": "Saric",
+    "playerId": 203967,
+    "teamId": "Philadelphia 76ers",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/saricda01.jpg"
+  },
+  {
+    "firstName": "Tomas",
+    "lastName": "Satoransky",
+    "playerId": 203107,
+    "teamId": "Washington Wizards",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/satorto01.jpg"
+  },
+  {
+    "firstName": "Dennis",
+    "lastName": "Schroder",
+    "playerId": 203471,
+    "teamId": "Atlanta Hawks",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/schrode01.jpg"
+  },
+  {
+    "firstName": "Mike",
+    "lastName": "Scott",
+    "playerId": 203118,
+    "teamId": "Washington Wizards",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/scottmi01.jpg"
+  },
+  {
+    "firstName": "Thabo",
+    "lastName": "Sefolosha",
+    "playerId": 200757,
+    "teamId": "Utah Jazz",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/sefolth01.jpg"
+  },
+  {
+    "firstName": "Wayne",
+    "lastName": "Selden",
+    "playerId": 1627782,
+    "teamId": "Memphis Grizzlies",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/seldewa01.jpg"
+  },
+  {
+    "firstName": "Ramon",
+    "lastName": "Sessions",
+    "playerId": 201196,
+    "teamId": 0,
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/sessira01.jpg"
+  },
+  {
+    "firstName": "Iman",
+    "lastName": "Shumpert",
+    "playerId": 202697,
+    "teamId": "Sacramento Kings",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/shumpim01.jpg"
+  },
+  {
+    "firstName": "Pascal",
+    "lastName": "Siakam",
+    "playerId": 1627783,
+    "teamId": "Toronto Raptors",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/siakapa01.jpg"
+  },
+  {
+    "firstName": "Ben",
+    "lastName": "Simmons",
+    "playerId": 1627732,
+    "teamId": "Philadelphia 76ers",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/simmobe01.jpg"
+  },
+  {
+    "firstName": "Jonathon",
+    "lastName": "Simmons",
+    "playerId": 203613,
+    "teamId": "Orlando Magic",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/simmojo02.jpg"
+  },
+  {
+    "firstName": "Kobi",
+    "lastName": "Simmons",
+    "playerId": 1628424,
+    "teamId": "Memphis Grizzlies",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/simmoko01.jpg"
+  },
+  {
+    "firstName": "Kyle",
+    "lastName": "Singler",
+    "playerId": 202713,
+    "teamId": "Oklahoma City Thunder",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/singlky01.jpg"
+  },
+  {
+    "firstName": "Marcus",
+    "lastName": "Smart",
+    "playerId": 203935,
+    "teamId": "Boston Celtics",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/smartma01.jpg"
+  },
+  {
+    "firstName": "Ish",
+    "lastName": "Smith",
+    "playerId": 202397,
+    "teamId": "Detroit Pistons",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/smithis01.jpg"
+  },
+  {
+    "firstName": "JR",
+    "lastName": "Smith",
+    "playerId": 2747,
+    "teamId": "Cleveland Cavaliers",
+    "img":""
+  },
+  {
+    "firstName": "Jason",
+    "lastName": "Smith",
+    "playerId": 201160,
+    "teamId": "Washington Wizards",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/smithja02.jpg"
+  },
+  {
+    "firstName": "Josh",
+    "lastName": "Smith",
+    "playerId": 2746,
+    "teamId": 0,
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/smithjo03.jpg"
+  },
+  {
+    "firstName": "Dennis",
+    "lastName": "Smith Jr.",
+    "playerId": 1628372,
+    "teamId": "Dallas Mavericks",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/smithde03.jpg"
+  },
+  {
+    "firstName": "Tony",
+    "lastName": "Snell",
+    "playerId": 203503,
+    "teamId": "Milwaukee Bucks",
+    "img":""
+  },
+  {
+    "firstName": "Marreese",
+    "lastName": "Speights",
+    "playerId": 201578,
+    "teamId": "Orlando Magic",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/speigma01.jpg"
+  },
+  {
+    "firstName": "Nik",
+    "lastName": "Stauskas",
+    "playerId": 203917,
+    "teamId": "Brooklyn Nets",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/stausni01.jpg"
+  },
+  {
+    "firstName": "Lance",
+    "lastName": "Stephenson",
+    "playerId": 202362,
+    "teamId": "Indiana Pacers",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/stephla01.jpg"
+  },
+  {
+    "firstName": "Julyan",
+    "lastName": "Stone",
+    "playerId": 202933,
+    "teamId": "Charlotte Hornets",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/stoneju01.jpg"
+  },
+  {
+    "firstName": "Edmond",
+    "lastName": "Sumner",
+    "playerId": 1628410,
+    "teamId": "Indiana Pacers",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/sumneed01.jpg"
+  },
+  {
+    "firstName": "Caleb",
+    "lastName": "Swanigan",
+    "playerId": 1628403,
+    "teamId": "Portland Trail Blazers",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/swanica01.jpg"
+  },
+  {
+    "firstName": "Jayson",
+    "lastName": "Tatum",
+    "playerId": 1628369,
+    "teamId": "Boston Celtics",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/tatumja01.jpg"
+  },
+  {
+    "firstName": "Isaiah",
+    "lastName": "Taylor",
+    "playerId": 1627819,
+    "teamId": "Atlanta Hawks",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/taylois01.jpg"
+  },
+  {
+    "firstName": "Jeff",
+    "lastName": "Teague",
+    "playerId": 201952,
+    "teamId": "Minnesota Timberwolves",
+    "img":""
+  },
+  {
+    "firstName": "Mirza",
+    "lastName": "Teletovic",
+    "playerId": 203141,
+    "teamId": "Milwaukee Bucks",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/teletmi01.jpg"
+  },
+  {
+    "firstName": "Garrett",
+    "lastName": "Temple",
+    "playerId": 202066,
+    "teamId": "Sacramento Kings",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/templga01.jpg"
+  },
+  {
+    "firstName": "Milos",
+    "lastName": "Teodosic",
+    "playerId": 1628462,
+    "teamId": "Los Angeles Clippers",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/teodomi01.jpg"
+  },
+  {
+    "firstName": "Jason",
+    "lastName": "Terry",
+    "playerId": 1891,
+    "teamId": "Milwaukee Bucks",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/terryja01.jpg"
+  },
+  {
+    "firstName": "Daniel",
+    "lastName": "Theis",
+    "playerId": 1628464,
+    "teamId": "Boston Celtics",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/theisda01.jpg"
+  },
+  {
+    "firstName": "Isaiah",
+    "lastName": "Thomas",
+    "playerId": 202738,
+    "teamId": "Los Angeles Lakers",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/thomais02.jpg"
+  },
+  {
+    "firstName": "Lance",
+    "lastName": "Thomas",
+    "playerId": 202498,
+    "teamId": "New York Knicks",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/thomala01.jpg"
+  },
+  {
+    "firstName": "Klay",
+    "lastName": "Thompson",
+    "playerId": 202691,
+    "teamId": "Golden State Warriors",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/thompkl01.jpg"
+  },
+  {
+    "firstName": "Tristan",
+    "lastName": "Thompson",
+    "playerId": 202684,
+    "teamId": "Cleveland Cavaliers",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/thomptr01.jpg"
+  },
+  {
+    "firstName": "Sindarius",
+    "lastName": "Thornwell",
+    "playerId": 1628414,
+    "teamId": "Los Angeles Clippers",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/thornsi01.jpg"
+  },
+  {
+    "firstName": "Anthony",
+    "lastName": "Tolliver",
+    "playerId": 201229,
+    "teamId": "Detroit Pistons",
+    "img":""
+  },
+  {
+    "firstName": "Karl-Anthony",
+    "lastName": "Towns",
+    "playerId": 1626157,
+    "teamId": "Minnesota Timberwolves",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/townska01.jpg"
+  },
+  {
+    "firstName": "PJ",
+    "lastName": "Tucker",
+    "playerId": 200782,
+    "teamId": "Houston Rockets",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/tuckepj01.jpg"
+  },
+  {
+    "firstName": "Evan",
+    "lastName": "Turner",
+    "playerId": 202323,
+    "teamId": "Portland Trail Blazers",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/turneev01.jpg"
+  },
+  {
+    "firstName": "Myles",
+    "lastName": "Turner",
+    "playerId": 1626167,
+    "teamId": "Indiana Pacers",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/turnemy01.jpg"
+  },
+  {
+    "firstName": "Ekpe",
+    "lastName": "Udoh",
+    "playerId": 202327,
+    "teamId": "Utah Jazz",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/udohek01.jpg"
+  },
+  {
+    "firstName": "Tyler",
+    "lastName": "Ulis",
+    "playerId": 1627755,
+    "teamId": "Phoenix Suns",
+    "img":""
+  },
+  {
+    "firstName": "Jonas",
+    "lastName": "Valanciunas",
+    "playerId": 202685,
+    "teamId": "Toronto Raptors",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/valanjo01.jpg"
+  },
+  {
+    "firstName": "Denzel",
+    "lastName": "Valentine",
+    "playerId": 1627756,
+    "teamId": "Chicago Bulls",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/valende01.jpg"
+  },
+  {
+    "firstName": "Fred",
+    "lastName": "VanVleet",
+    "playerId": 1627832,
+    "teamId": "Toronto Raptors",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/vanvlfr01.jpg"
+  },
+  {
+    "firstName": "Rashad",
+    "lastName": "Vaughn",
+    "playerId": 1626173,
+    "teamId": "New Orleans Pelicans",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/vaughra01.jpg"
+  },
+  {
+    "firstName": "Noah",
+    "lastName": "Vonleh",
+    "playerId": 203943,
+    "teamId": "Chicago Bulls",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/vonleno01.jpg"
+  },
+  {
+    "firstName": "Nikola",
+    "lastName": "Vucevic",
+    "playerId": 202696,
+    "teamId": "Orlando Magic",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/vucevni01.jpg"
+  },
+  {
+    "firstName": "Dwyane",
+    "lastName": "Wade",
+    "playerId": 2548,
+    "teamId": "Miami Heat",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/wadedw01.jpg"
+  },
+  {
+    "firstName": "Dion",
+    "lastName": "Waiters",
+    "playerId": 203079,
+    "teamId": "Miami Heat",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/waitedi01.jpg"
+  },
+  {
+    "firstName": "Kemba",
+    "lastName": "Walker",
+    "playerId": 202689,
+    "teamId": "Charlotte Hornets",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/walkeke02.jpg"
+  },
+  {
+    "firstName": "John",
+    "lastName": "Wall",
+    "playerId": 202322,
+    "teamId": "Washington Wizards",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/walljo01.jpg"
+  },
+  {
+    "firstName": "Tyrone",
+    "lastName": "Wallace",
+    "playerId": 1627820,
+    "teamId": "Los Angeles Clippers",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/wallaty01.jpg"
+  },
+  {
+    "firstName": "Derrick",
+    "lastName": "Walton Jr.",
+    "playerId": 1628476,
+    "teamId": "Miami Heat",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/waltode01.jpg"
+  },
+  {
+    "firstName": "TJ",
+    "lastName": "Warren",
+    "playerId": 203933,
+    "teamId": "Phoenix Suns",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/warretj01.jpg"
+  },
+  {
+    "firstName": "James",
+    "lastName": "Webb III",
+    "playerId": 1627821,
+    "teamId": "Brooklyn Nets",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/webbja01.jpg"
+  },
+  {
+    "firstName": "Briante",
+    "lastName": "Weber",
+    "playerId": 1627362,
+    "teamId": 0,
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/weberbr01.jpg"
+  },
+  {
+    "firstName": "David",
+    "lastName": "West",
+    "playerId": 2561,
+    "teamId": "Golden State Warriors",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/westda01.jpg"
+  },
+  {
+    "firstName": "Russell",
+    "lastName": "Westbrook",
+    "playerId": 201566,
+    "teamId": "Oklahoma City Thunder",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/westbru01.jpg"
+  },
+  {
+    "firstName": "Andrew",
+    "lastName": "White",
+    "playerId": 1628510,
+    "teamId": "Atlanta Hawks",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/whitean01.jpg"
+  },
+  {
+    "firstName": "Derrick",
+    "lastName": "White",
+    "playerId": 1628401,
+    "teamId": "San Antonio Spurs",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/whitede01.jpg"
+  },
+  {
+    "firstName": "Okaro",
+    "lastName": "White",
+    "playerId": 1627855,
+    "teamId": 0,
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/whiteok01.jpg"
+  },
+  {
+    "firstName": "Isaiah",
+    "lastName": "Whitehead",
+    "playerId": 1627785,
+    "teamId": "Brooklyn Nets",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/whiteis01.jpg"
+  },
+  {
+    "firstName": "Hassan",
+    "lastName": "Whiteside",
+    "playerId": 202355,
+    "teamId": "Miami Heat",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/whiteha01.jpg"
+  },
+  {
+    "firstName": "Andrew",
+    "lastName": "Wiggins",
+    "playerId": 203952,
+    "teamId": "Minnesota Timberwolves",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/wiggian01.jpg"
+  },
+  {
+    "firstName": "CJ",
+    "lastName": "Wilcox",
+    "playerId": 203912,
+    "teamId": "Portland Trail Blazers",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/wilcocj01.jpg"
+  },
+  {
+    "firstName": "Jacob",
+    "lastName": "Wiley",
+    "playerId": 1628451,
+    "teamId": 0,
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/wileyja01.jpg"
+  },
+  {
+    "firstName": "Damien",
+    "lastName": "Wilkins",
+    "playerId": 2863,
+    "teamId": 0,
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/wilkida02.jpg"
+  },
+  {
+    "firstName": "Alan",
+    "lastName": "Williams",
+    "playerId": 1626210,
+    "teamId": "Phoenix Suns",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/willial03.jpg"
+  },
+  {
+    "firstName": "C.J.",
+    "lastName": "Williams",
+    "playerId": 203710,
+    "teamId": "Los Angeles Clippers",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/willicj01.jpg"
+  },
+  {
+    "firstName": "Lou",
+    "lastName": "Williams",
+    "playerId": 101150,
+    "teamId": "Los Angeles Clippers",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/willilo02.jpg"
+  },
+  {
+    "firstName": "Marvin",
+    "lastName": "Williams",
+    "playerId": 101107,
+    "teamId": "Charlotte Hornets",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/willima02.jpg"
+  },
+  {
+    "firstName": "Troy",
+    "lastName": "Williams",
+    "playerId": 1627786,
+    "teamId": "Houston Rockets",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/willitr02.jpg"
+  },
+  {
+    "firstName": "Matt",
+    "lastName": "Williams Jr.",
+    "playerId": 1628475,
+    "teamId": 0,
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/willima05.jpg"
+  },
+  {
+    "firstName": "D.J.",
+    "lastName": "Wilson",
+    "playerId": 1628391,
+    "teamId": "Milwaukee Bucks",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/wilsodj01.jpg"
+  },
+  {
+    "firstName": "Jamil",
+    "lastName": "Wilson",
+    "playerId": 203966,
+    "teamId": 0,
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/wilsoja02.jpg"
+  },
+  {
+    "firstName": "Justise",
+    "lastName": "Winslow",
+    "playerId": 1626159,
+    "teamId": "Miami Heat",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/winslju01.jpg"
+  },
+  {
+    "firstName": "Jeff",
+    "lastName": "Withey",
+    "playerId": 203481,
+    "teamId": 0,
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/witheje01.jpg"
+  },
+  {
+    "firstName": "Nate",
+    "lastName": "Wolters",
+    "playerId": 203489,
+    "teamId": 0,
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/woltena01.jpg"
+  },
+  {
+    "firstName": "Brandan",
+    "lastName": "Wright",
+    "playerId": 201148,
+    "teamId": "Memphis Grizzlies",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/wrighbr03.jpg"
+  },
+  {
+    "firstName": "Delon",
+    "lastName": "Wright",
+    "playerId": 1626153,
+    "teamId": "Toronto Raptors",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/wrighde01.jpg"
+  },
+  {
+    "firstName": "Guerschon",
+    "lastName": "Yabusele",
+    "playerId": 1627824,
+    "teamId": "Boston Celtics",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/yabusgu01.jpg"
+  },
+  {
+    "firstName": "James",
+    "lastName": "Young",
+    "playerId": 203923,
+    "teamId": "Philadelphia 76ers",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/youngja01.jpg"
+  },
+  {
+    "firstName": "Joe",
+    "lastName": "Young",
+    "playerId": 1626202,
+    "teamId": "Indiana Pacers",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/youngjo01.jpg"
+  },
+  {
+    "firstName": "Nick",
+    "lastName": "Young",
+    "playerId": 201156,
+    "teamId": "Golden State Warriors",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/youngni01.jpg"
+  },
+  {
+    "firstName": "Thaddeus",
+    "lastName": "Young",
+    "playerId": 201152,
+    "teamId": "Indiana Pacers",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/youngth01.jpg"
+  },
+  {
+    "firstName": "Cody",
+    "lastName": "Zeller",
+    "playerId": 203469,
+    "teamId": "Charlotte Hornets",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/zelleco01.jpg"
+  },
+  {
+    "firstName": "Tyler",
+    "lastName": "Zeller",
+    "playerId": 203092,
+    "teamId": "Milwaukee Bucks",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/zellety01.jpg"
+  },
+  {
+    "firstName": "Paul",
+    "lastName": "Zipser",
+    "playerId": 1627835,
+    "teamId": "Chicago Bulls",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/zipsepa01.jpg"
+  },
+  {
+    "firstName": "Ante",
+    "lastName": "Zizic",
+    "playerId": 1627790,
+    "teamId": "Cleveland Cavaliers",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/zizican01.jpg"
+  },
+  {
+    "firstName": "Ivica",
+    "lastName": "Zubac",
+    "playerId": 1627826,
+    "teamId": "Los Angeles Lakers",
+    "img":"https://d2cwpp38twqe55.cloudfront.net/req/201804182/images/players/zubaciv01.jpg"
+  }
+]
